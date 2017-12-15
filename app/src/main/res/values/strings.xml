@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="alertTitle">set time</string>
+    <string name="yes">yes</string>
+</resources>
